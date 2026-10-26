@@ -99,3 +99,4 @@
 1. **Surveillance Foreshortening Mitigation:** High overhead camera pitch angles collapse head and shoulder keypoints. By reweighting head keypoint losses $\times 1.5$ and applying aggressive coarse dropout, our models exhibit robust structural localization even under severe occlusion.
 2. **Multi-Padding Scale Invariant TTA:** Combining zoom-in scales (0.88, 0.94) to enhance small/medium pedestrian details with scale 1.06 for large pedestrians yields uniform AP gains across all person scales.
 3. **Pure GPU DARK Post-Processing:** Fully vectorizing the DARK sub-pixel Hessian inversion eliminated 90,700+ CPU-GPU memory copies, enabling 4-scale multi-padding TTA within the competition time limit.
+

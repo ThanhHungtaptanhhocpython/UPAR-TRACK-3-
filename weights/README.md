@@ -34,3 +34,4 @@ This folder contains the trained weights in pure PyTorch FP16 format for the ViT
 
 If cloning from GitHub without large files, download all trained weights and submission zips from:
 [Google Drive Link - To be inserted by team upon upload]
+

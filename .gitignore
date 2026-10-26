@@ -17,3 +17,4 @@ mock_input_data/
 # The organizers explicitly allow providing weights via Google Drive / OneDrive.
 # Uncomment the line below if you are sharing weights via Google Drive rather than Git LFS:
 *.pt
+

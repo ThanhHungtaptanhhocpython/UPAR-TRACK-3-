@@ -34,3 +34,4 @@ docker run --rm --gpus all --network none \
         --time-limit 7200
 
 echo "=== Finished! Predictions saved to $OUTPUT_DIR/predictions.json ==="
+

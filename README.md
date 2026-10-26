@@ -149,3 +149,4 @@ python training/train.py \
 - **Team Name:** `6em1n1` (RL4FUN)
 - **Challenge:** UPAR Challenge 2027 (RWS Workshop, ECCV / CVPR)
 - **Email:** Contact via challenge registration email.
+
