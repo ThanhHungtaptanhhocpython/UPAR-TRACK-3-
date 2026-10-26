@@ -1,0 +1,54 @@
+{
+ "preset": "large",
+ "init": "mmpose:",
+ "split": "random5",
+ "slots": "posetrack18",
+ "flip_pairs": [
+  [
+   3,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ],
+  [
+   15,
+   16
+  ]
+ ],
+ "flip_shift": false,
+ "best_val_ap": 0.9585045248348283,
+ "input_height": 256,
+ "input_width": 192,
+ "image_mean": [
+  0.485,
+  0.456,
+  0.406
+ ],
+ "image_std": [
+  0.229,
+  0.224,
+  0.225
+ ],
+ "rescale_factor": 0.00392156862745098,
+ "normalize_factor": 200.0,
+ "padding_factor": 1.25,
+ "num_keypoints": 17
+}

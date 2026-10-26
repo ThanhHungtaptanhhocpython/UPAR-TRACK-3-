@@ -1,0 +1,18 @@
+{
+ "members": [
+  {
+   "dir": "m0",
+   "weight": 0.3,
+   "source": "r03_vitl_ft",
+   "preset": "large",
+   "input": "256x192"
+  },
+  {
+   "dir": "m1",
+   "weight": 0.7,
+   "source": "r05_vitl384_ft",
+   "preset": "large",
+   "input": "384x288"
+  }
+ ]
+}

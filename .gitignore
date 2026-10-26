@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Evaluation outputs and temporary data
+output/
+output_sub18/
+output_sub19/
+mock_input_data/
+*.log
+
+# Large model weights (> 100MB cannot be pushed to standard GitHub without Git LFS)
+# The organizers explicitly allow providing weights via Google Drive / OneDrive.
+# Uncomment the line below if you are sharing weights via Google Drive rather than Git LFS:
+*.pt
