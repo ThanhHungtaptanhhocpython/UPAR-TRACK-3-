@@ -30,8 +30,10 @@ This folder contains the trained weights in pure PyTorch FP16 format for the ViT
   - `inference/submission_19/assets/m1/weights_fp16.pt` $\leftarrow$ `r05_vitl384_weights_fp16.pt` (Weight: 0.5)
   - `inference/submission_19/assets/m2/weights_fp16.pt` $\leftarrow$ `r06_vith256_weights_fp16.pt` (Weight: 0.3)
 
-## Google Drive Download Link
+## Google Drive Download Links
 
-If cloning from GitHub without large files, download all trained weights and submission zips from:
-[Google Drive Link - To be inserted by team upon upload]
+If cloning from GitHub without large files, download the trained weights for the official finalized submission (**Submission 18**, `0.9050 AP`: `r03_vitl256_weights_fp16.pt` and `r05_vitl384_weights_fp16.pt`) and the prepared training data (`upar_track3_train.zip`, containing `annotations/splits.json` and `annotations/train_upar_all_fixed.json`) from Google Drive:
+
+- **Trained Weights (`weights/`):** https://drive.google.com/drive/folders/1x9hb4LxYa5B-m7Y0oIgM2W-ueumL94cy?usp=sharing
+- **Prepared Training Data (`data/`):** https://drive.google.com/drive/folders/1ijfqxbQZrIBZYUF5RhHUiZM3lOXDwFQq?usp=drive_link
 
